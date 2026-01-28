@@ -73,14 +73,4 @@ This project is perfect for learning SQL, practicing relational database design,
 
 ---
 
-## ⚡ SQL Scripts
 
-You can create the database and tables using the following scripts:
-
-```sql
-CREATE DATABASE StoreDB;
-GO
-USE StoreDB;
-GO
-
--- Create tables here (Customers, Categories, Products, Orders, OrderDetails, Payments)
